@@ -1,13 +1,13 @@
-# Telegram sessions — never commit these
+# Sessiya fayllari — bularni hech kimga bermang, ular akkauntga to'liq kirish huquqi beradi
 *.session
 *.session-journal
 *.session-wal
 *.session-shm
 
-# Secrets
+# Maxfiy ma'lumotlar
 .env
 
-# Local state and logs
+# Bot holati va loglar (shaxsiy ma'lumot: qaysi chatlar tanlangani va h.k.)
 bot_state.db
 bot_state.db-wal
 bot_state.db-shm
@@ -16,12 +16,11 @@ bot.log
 bot.log.*
 *.log
 
-# Python
 __pycache__/
 *.pyc
 .pytest_cache/
 .venv/
 venv/
 
-# Temporary QR image
+# Vaqtinchalik QR login rasmi
 telegram_login_qr.png
