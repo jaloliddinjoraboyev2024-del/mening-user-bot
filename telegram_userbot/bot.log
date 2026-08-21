@@ -1,0 +1,84 @@
+2026-08-21 13:26:22,259 [INFO] telethon.network.mtprotosender: Connecting to 149.154.167.51:443/TcpFull...
+2026-08-21 13:26:24,239 [INFO] telethon.network.mtprotosender: Connection to 149.154.167.51:443/TcpFull complete!
+2026-08-21 13:26:25,263 [INFO] bot: Boshqaruv boti ishga tushdi.
+2026-08-21 13:26:25,263 [INFO] telethon.network.mtprotosender: Connecting to 149.154.167.51:443/TcpFull...
+2026-08-21 13:26:25,371 [INFO] telethon.network.mtprotosender: Connection to 149.154.167.51:443/TcpFull complete!
+2026-08-21 13:26:26,213 [INFO] bot: Userbot (shaxsiy akkaunt) ulandi.
+2026-08-21 13:27:11,805 [INFO] bot: Dialoglar yangilandi (owner=7642176910): 179 guruh, 152 kanal, 89 shaxsiy, 163 bot
+2026-08-21 13:27:16,000 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:27:16,127 [INFO] telethon.client.updates: Got difference for channel 2254733967 updates
+2026-08-21 13:27:23,105 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:27:23,231 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:27:35,338 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:27:46,764 [INFO] bot: Delete tugadi (owner=7642176910, all=False): 1 ta xabar, 0 ta xato
+2026-08-21 13:27:46,971 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:27:47,224 [INFO] telethon.client.updates: Got difference for account updates
+2026-08-21 13:27:55,090 [INFO] telethon.client.updates: Got difference for channel 3398613534 updates
+2026-08-21 13:27:55,218 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:28:02,140 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:28:05,178 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:28:17,092 [INFO] telethon.client.updates: Got difference for channel 2254733967 updates
+2026-08-21 13:28:18,747 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:28:18,872 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:28:21,324 [INFO] bot: Delete tugadi (owner=7642176910, all=False): 1 ta xabar, 0 ta xato
+2026-08-21 13:28:21,835 [INFO] telethon.client.updates: Got difference for account updates
+2026-08-21 13:28:21,958 [INFO] telethon.client.updates: Got difference for channel 3398613534 updates
+2026-08-21 13:28:22,102 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:28:24,875 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:28:36,718 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:28:38,915 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:28:39,053 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:28:41,559 [INFO] telethon.client.updates: Got difference for channel 3936904043 updates
+2026-08-21 13:28:42,226 [INFO] telethon.client.updates: Got difference for channel 4411879708 updates
+2026-08-21 13:28:50,617 [INFO] telethon.client.updates: Got difference for channel 3392810770 updates
+2026-08-21 13:28:50,746 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:28:50,906 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:28:55,082 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:28:58,409 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:29:06,270 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:29:10,494 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:29:10,638 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:29:10,766 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:29:27,023 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:29:27,156 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:29:27,286 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:29:27,420 [INFO] telethon.client.updates: Got difference for channel 2254733967 updates
+2026-08-21 13:29:53,163 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:29:53,327 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:29:55,869 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:29:58,565 [INFO] telethon.client.updates: Got difference for channel 3392810770 updates
+2026-08-21 13:30:00,745 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:30:04,950 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:30:05,742 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:30:12,694 [INFO] telethon.client.updates: Got difference for channel 2252194185 updates
+2026-08-21 13:30:22,285 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:30:57,826 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:31:11,891 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:31:12,016 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:31:17,386 [INFO] telethon.client.updates: Got difference for channel 3392810770 updates
+2026-08-21 13:31:18,122 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:31:20,879 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:31:21,008 [INFO] telethon.client.updates: Got difference for channel 3398613534 updates
+2026-08-21 13:31:21,804 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:31:22,445 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:31:29,593 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:31:35,501 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:31:43,103 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:31:53,409 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:32:01,573 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:32:07,564 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:32:19,390 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:32:19,542 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:32:19,668 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:32:24,152 [INFO] telethon.client.updates: Got difference for channel 2252194185 updates
+2026-08-21 13:32:25,241 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:32:27,032 [INFO] bot: Dialoglar yangilandi (owner=7642176910): 179 guruh, 152 kanal, 89 shaxsiy, 163 bot
+2026-08-21 13:32:30,373 [INFO] telethon.client.updates: Got difference for channel 2254733967 updates
+2026-08-21 13:32:34,516 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:32:40,187 [INFO] telethon.client.updates: Got difference for channel 3917979205 updates
+2026-08-21 13:32:40,308 [INFO] telethon.client.updates: Got difference for channel 1229122111 updates
+2026-08-21 13:32:47,528 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:32:56,582 [INFO] telethon.client.updates: Got difference for channel 2488861665 updates
+2026-08-21 13:32:56,705 [INFO] telethon.client.updates: Got difference for channel 2222348198 updates
+2026-08-21 13:32:57,344 [INFO] telethon.client.updates: Got difference for channel 2306432350 updates
+2026-08-21 13:33:03,731 [INFO] telethon.client.updates: Got difference for channel 2254733967 updates
